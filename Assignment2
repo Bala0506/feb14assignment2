@@ -1,0 +1,12 @@
+# wAP for sum of the digits
+n=int(input('enter a number:'))
+sum=0
+while n>o
+       rem=n%10
+       Sum=sum +rem
+         n=n//10
+Print (sum)
+
+Output:
+enter a number:123
+6
